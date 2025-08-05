@@ -16,7 +16,7 @@
   <header>
     <h1>Global Trading Investment</h1>
     <p>Votre partenaire de confiance pour vos investissements</p>
-  </header>
+  </header
 
   <form action="https://formsubmit.co/tonemail@gmail.com" method="POST">
     <input type="text" name="nom" placeholder="Nom" required /><br />
